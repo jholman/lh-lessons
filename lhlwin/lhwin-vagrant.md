@@ -21,7 +21,7 @@ Watched https://www.youtube.com/watch?v=mPBWWu7sZU4&vl=en and followed instructi
 IN CMDER
 4) vagrant -v  (to confirm vagrant install)
 
-follow lighthouse instructions from here
+follow lighthouse instructions from here  
 5) cd to C:\Users\youruser
 6) mkdir lighthouse
 7) cd lighthouse
