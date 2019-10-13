@@ -22,13 +22,13 @@ IN CMDER
 4) vagrant -v  (to confirm vagrant install)
 
 follow lighthouse instructions from here  
-5) cd to C:\Users\youruser
-6) mkdir lighthouse
-7) cd lighthouse
-8) curl -O http://d10ofk0qhbh8u9.cloudfront.net/vagrant/Vagrantfile  (per lighthouse step 3)
-9) vagrant up
-10) vagrant ssh
-11) create test file and check it in windows
+5) cd to C:\Users\youruser  
+6) mkdir lighthouse  
+7) cd lighthouse  
+8) curl -O http://d10ofk0qhbh8u9.cloudfront.net/vagrant/Vagrantfile  (per lighthouse step 3)  
+9) vagrant up  
+10) vagrant ssh  
+11) create test file and check it in windows  
 
 all appears to be working.   key thing.  use cmder
 
