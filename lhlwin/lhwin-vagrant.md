@@ -20,6 +20,7 @@ Watched https://www.youtube.com/watch?v=mPBWWu7sZU4&vl=en and followed instructi
 3) Download extract and run cmder (https://cmder.net/)
 IN CMDER
 4) vagrant -v  (to confirm vagrant install)
+
 follow lighthouse instructions from here
 5) cd to C:\Users\youruser
 6) mkdir lighthouse
