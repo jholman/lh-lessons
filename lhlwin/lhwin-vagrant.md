@@ -14,5 +14,8 @@ In this approach, we try to install and use Vagrant and VBox, as similarly to th
 
 ## Log
 
-
+Watched https://www.youtube.com/watch?v=mPBWWu7sZU4&vl=en and followed instructions therin:
+1) Download and install virtual box (per lighthouse 5.2.x)
+2) Download and install Vagrant (https://www.vagrantup.com/downloads.html) (restart required)
+3) Download and install cmder 
 
