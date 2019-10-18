@@ -33,5 +33,9 @@ follow lighthouse instructions from here
 all appears to be working.   key thing.  use cmder
 
 
+vsCode need to add line to settings for newline to be lf instead of crlf
+"files.eol": "\n"
+
+
 
 
